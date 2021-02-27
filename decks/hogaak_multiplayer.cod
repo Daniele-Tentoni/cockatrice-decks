@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Hogaak, Arisen Necropolis"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Grapple with the Past"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Khalni Garden"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Phyrexian Devourer"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Traverse the Ulvenwald"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Acolyte of Affliction"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Mikaeus, the Unhallowed"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Necrotic Ooze"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Korozda Guildmage"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Underrealm Lich"/>
+        <card number="1" name="Sewer Nemesis"/>
+        <card number="1" name="Supernatural Stamina"/>
+        <card number="1" name="Brawn"/>
+        <card number="1" name="Splinterfright"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Winding Way"/>
+        <card number="1" name="Thorn of the Black Rose"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Genesis"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Nighthowler"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Deathbringer Regent"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Jarad's Orders"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Far Wanderings"/>
+        <card number="1" name="Millikin"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Dakmor Salvage"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Field of the Dead"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Foul Orchard"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Svogthos, the Restless Tomb"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="5" name="Forest"/>
+        <card number="5" name="Snow-Covered Forest"/>
+        <card number="5" name="Swamp"/>
+        <card number="5" name="Snow-Covered Swamp"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Tevesh Szat, Doom of Fools"/>
+        <card number="1" name="Crop Sigil"/>
+        <card number="1" name="Plaguecrafter"/>
+    </zone>
+</cockatrice_deck>
