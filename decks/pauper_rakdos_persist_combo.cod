@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Flamewave Invoker"/>
+        <card number="1" name="Goblin Sledder"/>
+        <card number="4" name="Goblin Matron"/>
+        <card number="4" name="Putrid Goblin"/>
+        <card number="4" name="Skirk Prospector"/>
+        <card number="3" name="Ichor Wellspring"/>
+        <card number="4" name="Chromatic Star"/>
+        <card number="4" name="Deadly Dispute"/>
+        <card number="4" name="First Day of Class"/>
+        <card number="2" name="Reckless Impulse"/>
+        <card number="4" name="Duress"/>
+        <card number="4" name="Unearth"/>
+        <card number="2" name="Makeshift Munitions"/>
+        <card number="2" name="Swamp"/>
+        <card number="3" name="Rakdos Carnarium"/>
+        <card number="3" name="Vault of Whispers"/>
+        <card number="4" name="Drossforge Bridge"/>
+        <card number="7" name="Mountain (b)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pyromatics"/>
+        <card number="2" name="Weather the Storm"/>
+        <card number="2" name="Abrade"/>
+        <card number="2" name="Gorilla Shaman (b)"/>
+        <card number="2" name="Introduction to Prophecy"/>
+        <card number="2" name="Krark-Clan Shaman"/>
+        <card number="2" name="Pyroblast"/>
+        <card number="2" name="Red Elemental Blast"/>
+    </zone>
+</cockatrice_deck>

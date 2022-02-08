@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Laelia, the Blade Reforged"/>
+        <card number="4" name="Goblin Rabblemaster"/>
+        <card number="4" name="Bonecrusher Giant // Stomp"/>
+        <card number="4" name="Anje's Ravager"/>
+        <card number="4" name="Fury"/>
+        <card number="4" name="Simian Spirit Guide"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="4" name="Chrome Mox"/>
+        <card number="4" name="Chalice of the Void"/>
+        <card number="2" name="Dead // Gone"/>
+        <card number="4" name="Shatterskull Smashing"/>
+        <card number="4" name="Urza's Saga"/>
+        <card number="4" name="Den of the Bugbear"/>
+        <card number="4" name="City of Traitors"/>
+        <card number="4" name="Ancient Tomb"/>
+        <card number="4" name="Snow-Covered Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Fiery Confluence"/>
+        <card number="4" name="Pyroblast"/>
+        <card number="3" name="Trinisphere"/>
+        <card number="2" name="Faerie Macabre"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Pithing Needle"/>
+    </zone>
+</cockatrice_deck>

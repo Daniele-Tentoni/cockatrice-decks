@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mogg Fanatic"/>
+        <card number="1" name="Grenzo, Havoc Raiser"/>
+        <card number="1" name="Goblin Trashmaster"/>
+        <card number="1" name="Gempalm Incinerator"/>
+        <card number="1" name="Goblin Cratermaker"/>
+        <card number="1" name="Muxus, Goblin Grandee"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="2" name="Pashalik Mons"/>
+        <card number="2" name="Goblin Warchief"/>
+        <card number="2" name="Mogg War Marshal"/>
+        <card number="2" name="Goblin Ringleader"/>
+        <card number="2" name="Sling-Gang Lieutenant"/>
+        <card number="3" name="Munitions Expert"/>
+        <card number="3" name="Goblin Piledriver"/>
+        <card number="4" name="Goblin Matron"/>
+        <card number="4" name="Goblin Lackey"/>
+        <card number="4" name="Aether Vial"/>
+        <card number="2" name="Pyroblast"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Karakas"/>
+        <card number="2" name="Badlands"/>
+        <card number="2" name="Wooded Foothills"/>
+        <card number="2" name="Rishadan Port"/>
+        <card number="3" name="Mountain"/>
+        <card number="4" name="Bloodstained Mire"/>
+        <card number="4" name="Cavern of Souls"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Blood Moon"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Mindbreak Trap"/>
+        <card number="1" name="Lantern of the Lost"/>
+        <card number="1" name="Magus of the Moon"/>
+        <card number="1" name="Muxus, Goblin Grandee"/>
+        <card number="2" name="Pyroblast"/>
+        <card number="2" name="Pyrokinesis"/>
+        <card number="2" name="Leyline of the Void"/>
+    </zone>
+</cockatrice_deck>
